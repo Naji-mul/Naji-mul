@@ -14,7 +14,7 @@
 
 
 ## Links
- <a href="www.linkedin.com/in/sk-najimul-hossain-693b5638b" target="Blank">
+ <a href="https://www.linkedin.com/in/sk-najimul-hossain-693b5638b" target="Blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="X" target="blank">
